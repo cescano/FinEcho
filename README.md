@@ -1,5 +1,5 @@
 # FinEcho
-SentimentPulse is a real-time stock sentiment dashboard that integrates alternative data from Twitter, financial news, and Polymarket prediction markets to analyze and visualize public sentiment for publicly traded companies.
+FinEcho is a real-time stock sentiment dashboard that integrates alternative data from Twitter, financial news, and Polymarket prediction markets to analyze and visualize public sentiment for publicly traded companies.
 
 Powered by NLP with Transformer-based models, the system tracks sentiment trends alongside stock prices and surfaces correlations, sentiment shifts, and prediction market insights to assist in financial decision-making or market research.
 
